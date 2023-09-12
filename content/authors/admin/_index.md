@@ -2,11 +2,11 @@
 
 
 # Display name
-title: Majdi Hassan
+title: Simon Gravelle
 
 # Full name (for SEO)
-first_name: Majdi
-last_name: Hassan
+first_name: Simon
+last_name: Gravelle
 
 # Status emoji
 status:
@@ -16,32 +16,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student
+role: MSCA Fellow and CNRS future recruit
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Mila
-    url: https://mila.quebec/en/
-  - name: University of Montreal
-    url: https://diro.umontreal.ca/accueil/
+  - name: LIPhy, University Grenoble Alpes
+    url: https://liphy.univ-grenoble-alpes.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer science master's student at Mila and University of Montreal.
+bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy in Grenoble, France.
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Generative Modeling
-  - Drug Discovery
-  - Molecular Dynamics
-  - Ligand-Protein Interaction
+  - Soft Matter
+  - Fluid at interface
+  - Computer simulations
 
 # Education to show in About widget
 education:
   courses:
-    - course: Bachlor in Computer Engineering
-      institution: University of Illinois at Urbana-Champaign
-      year: 2019
+    - course: PhD in Nanofluidics
+      institution: University of Lyon (France)
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,23 +46,23 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:simon.gravelle@live.fr
+    # link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/majdi_has
+    link: https://twitter.com/GravelleSimon
     label: Follow me on Twitter
-    display:
-      header: true
+  - icon: mastodon
+    icon_pack: fab
+    link: https://mastodon.social/@simongravelle
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=jnVpQBIAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
-    link: https://github.com/majhas
-
-# Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://github.com/simongravelle
+    display:
+      header: true
   - icon: cv
     icon_pack: ai
     link: files/cv/cv.pdf
@@ -80,6 +76,16 @@ highlight_name: true
 
 **About me**
 
-I am a master's student in computer science at [Mila](https://mila.quebec/en/) in Montreal, Canada.
+I am a physicist in soft matter and fluids at interfaces at [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble (France). In 2022 I received a [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/) grant (*NanoSep*) to study the demixing of fluid mixtures by hybrid nanoporous materials, and I will soon be working at [CNRS](https://www.cnrs.fr/).
 
+**Open source and open data**
 
+* [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit for analyzing confined molecular simulations
+* [NMRforMD](https://nmrformd.readthedocs.io), a Python script for calculating hydrogen NMR relaxation rates from molecular dynamics simulations
+* [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data
+
+**Outreach**
+
+* [LAMMPS tutorials](https://lammpstutorials.github.io) for beginners and advanced LAMMPS users
+* [GROMACS tutorials](https://gromacstutorials.github.io) for beginners and advanced GROMACS users
+* [gallery of animations](https://www.youtube.com/@SimonGravelle) of molecular systems

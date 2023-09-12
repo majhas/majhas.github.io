@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: majdi.hassan@mila.quebec
+  email: simon.gravelle@live.fr
 
 design:
   columns: '2'

@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Personal page'
-    twitter: 'majdi_has'
+    twitter: 'Gravellesimon'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Majdi Hassan. This work is licensed under {license}.'
+    notice: '© {year} Simon Gravelle. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: true
@@ -74,7 +74,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/majhas/majhas.github.io'
+    url: 'https://github.com/simongravelle/simongravelle.github.io'
     content_dir: content
     branch: master
   avatar:
