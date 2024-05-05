@@ -22,7 +22,7 @@ I am a Master's student in computer science supervised by [Dominique Beaini](htt
 
 I am primarily interested in generative models (more specifically dynamical measure transport) and geometric deep learning applied on molecular dynamics, conformation sampling, quantum chemistry, and protein-ligand interaction.
 
-Previously, I was a Machine Learning Scientist at AbbVie working on Graph Neural Networks, ADME property prediction, and de novo molecular generation.
+Previously, I was an Associate Machine Learning Scientist at AbbVie working on Graph Neural Networks, chemisity, ADME property prediction, and de novo molecular generation.
 
 Prior to that, I completed my Bachlors in computer engineering at University of Illinois at Urbana-Champaign in 2019.
 
