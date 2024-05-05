@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my Master's at [Mila](https://mila.quebec/en/) / [University of Montreal](https://www.umontreal.ca/en/).
+I started my Master's at [Mila](https://mila.quebec/en/) and [Université de Montréal](https://www.umontreal.ca/en/).

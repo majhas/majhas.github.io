@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Master's student in computer science supervised by [Dominique Beaini](https://ca.linkedin.com/in/dbeaini). 
+I am a Master's student in computer science at [Mila](https://mila.quebec/en/) and [Université de Montréal](https://www.umontreal.ca/en/) supervised by [Dominique Beaini](https://ca.linkedin.com/in/dbeaini). 
 
 I am primarily interested in generative models (more specifically dynamical measure transport) and geometric deep learning applied on molecular dynamics, conformation sampling, quantum chemistry, and protein-ligand interaction.
 
