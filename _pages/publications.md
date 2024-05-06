@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 url: https://scholar.google.com/citations?hl=en&user=z6LCZXdEJmUC
 title: publications
 nav: true
