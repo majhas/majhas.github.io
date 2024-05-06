@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 url: https://scholar.google.com/citations?hl=en&user=z6LCZXdEJmUC
-title: publications
+title: scholar
 nav: true
 nav_order: 2
 ---
