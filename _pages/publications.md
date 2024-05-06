@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: https://scholar.google.com/citations?hl=en&user=z6LCZXdEJmUC
+redirect_to: https://scholar.google.com/citations?hl=en&user=z6LCZXdEJmUC
 title: publications
 nav: true
 nav_order: 2
