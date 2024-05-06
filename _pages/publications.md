@@ -1,7 +1,7 @@
 ---
 layout: page
-url: https://scholar.google.com/citations?hl=en&user=z6LCZXdEJmUC
-title: scholar
+redirect: https://scholar.google.com/citations?hl=en&user=z6LCZXdEJmUC
+title: publications
 nav: true
 nav_order: 2
 ---
