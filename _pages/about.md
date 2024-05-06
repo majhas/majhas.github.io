@@ -27,3 +27,5 @@ Previously, I was an Associate Machine Learning Scientist at AbbVie working on G
 Prior to that, I completed my Bachlors in computer engineering at University of Illinois at Urbana-Champaign in 2019.
 
 Please reach out if there is anything you would like to discuss!
+
+**Contact:** majdi [dot] hassan [at] umontreal [dot] ca
