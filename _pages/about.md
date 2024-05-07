@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a Master's student in computer science at [Mila](https://mila.quebec/en/) and [Université de Montréal](https://www.umontreal.ca/en/) supervised by [Dominique Beaini](https://ca.linkedin.com/in/dbeaini).
 
-I am primarily interested in generative models (more specifically dynamical measure transport) and geometric deep learning applied on molecular dynamics, conformation sampling, quantum chemistry, and protein-ligand interaction.
+I am primarily interested in the development of methods for generative models (more specifically dynamical measure transport) and geometric deep learning as well as their application in molecular dynamics, conformation sampling, quantum chemistry, and protein-ligand interaction.
 
 Previously, I was an Associate Machine Learning Scientist at AbbVie working on Graph Neural Networks, chemisity, ADME property prediction, and de novo molecular generation.
 
