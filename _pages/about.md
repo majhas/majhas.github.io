@@ -28,4 +28,4 @@ Prior to that, I completed my Bachlors in computer engineering at University of 
 
 Please reach out if there is anything you would like to discuss!
 
-**Contact:** majdi [dot] hassan [at] umontreal [dot] ca
+**Contact:** [firstname] [dot] [lastname] [at] umontreal [dot] ca
