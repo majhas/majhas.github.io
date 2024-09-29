@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a Master's student in computer science at [Mila](https://mila.quebec/en/) and [Université de Montréal](https://www.umontreal.ca/en/) supervised by [Dominique Beaini](https://ca.linkedin.com/in/dbeaini) and [Kirill Neklyudov](https://necludov.github.io/) .
 
-I am primarily interested in the development of methods for generative models (more specifically dynamic-based methods like flow matching and diffusion) and geometric deep learning as well as their application in molecular dynamics, quantum chemistry, conformation sampling, and protein-ligand interaction.
+I am primarily interested in the development of methods for generative models (specifically dynamic-based methods like flow matching and diffusion) and geometric deep learning as well as their application in molecular dynamics, quantum chemistry, conformation sampling, and protein-ligand interaction.
 
 Previously, I was an Associate Machine Learning Scientist at AbbVie working on Graph Neural Networks, chemisity, ADME property prediction, and de novo molecular generation.
 
