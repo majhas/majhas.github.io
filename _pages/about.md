@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Master's student in computer science at [Mila](https://mila.quebec/en/) and [Université de Montréal](https://www.umontreal.ca/en/) supervised by [Dominique Beaini](https://ca.linkedin.com/in/dbeaini) and [Kirill Neklyudov](https://necludov.github.io/) .
+I am a Master's student in computer science at [Mila](https://mila.quebec/en/) and [Université de Montréal](https://www.umontreal.ca/en/) supervised by [Dominique Beaini](https://www.linkedin.com/in/dbeaini/) and [Kirill Neklyudov](https://necludov.github.io/) .
 
 I am primarily interested in the development of methods for generative models (specifically dynamic-based methods like flow matching and diffusion) and geometric deep learning as well as their application in molecular dynamics, quantum chemistry, conformation sampling, and protein-ligand interaction.
 
